@@ -7,7 +7,6 @@
 }
 
 body {
-    /* font-size: 18px; */
     font-family: 'Bai Jamjuree', sans-serif;
 }
 h1, h2, h3 {
@@ -145,12 +144,10 @@ header {
     justify-content: space-around;
     align-items: center;
     margin: 0 25px;
-    /* padding: 0 100px; */
 }
 
 .container {
      text-align: center;
-     /* padding: 15px; */
      margin: 100px auto;
      width: 50%;
 }
@@ -161,7 +158,6 @@ footer{
     align-items: center;
     background: #f1f1f5;
     padding: 40px 35px;
-    /* margin: 50px 35px 25px; */
 }
 
 .footer-logo {
@@ -172,7 +168,6 @@ footer{
 
 ul {
   list-style: none;
-  /* max-width: 400px; */
 }
 
 ul li {
@@ -320,7 +315,6 @@ color: hsl(171, 66%, 44%);
     footer{
         display: flex;
         flex-direction: column;
-        /* margin: auto; */
     }
 
     .nav{
